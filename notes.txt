@@ -1,3 +1,4 @@
 "# Learning Git" 
 "Git tracks changes to files" 
-"Each commit is like a snapshot" 
+"Each commit is like a snapshot"
+"Another change to experiment with source control in VScode" 
